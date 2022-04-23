@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm tokyopill</h1>
-<h3 align="center">A devloper from Earth</h3>
+<h3 align="center">A developer from Earth</h3>
 
 - 🔭 I’m currently working on **Pulsive-Private**
 
