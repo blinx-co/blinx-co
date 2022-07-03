@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm blinx</h1>
 <h3 align="center">A developer from United Kingdom</h3>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **Yam Client**
 
 - 👯 I’m looking to collaborate on **Anything**
 
